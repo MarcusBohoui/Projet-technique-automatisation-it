@@ -28,7 +28,4 @@ Projet réalisé en autonomie dans le cadre de mon alternance au sein de l’ent
 # 📁 Structure du dépôt
 
 - `/scripts` : Contient les scripts PowerShell principaux (check_new_ticket.ps1, offboarding.ps1, onboarding.ps1).
-- `/rapport-technique` : rapport PDF détaillé du projet réalisé en entreprise.
-- `README.md` : ce fichier.  
-
-
+- `/rapport-technique` : rapport PDF détaillé du projet réalisé en entreprise (en cour).
